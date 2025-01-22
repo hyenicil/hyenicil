@@ -38,8 +38,6 @@ Here are a few highlights from my repositories:
 
 ## 🔗 Connect With Me
 - [LinkedIn]([https://linkedin.com/in/hyenecil](https://www.linkedin.com/in/h%C3%BCseyin-mercimek-999939178/))
-- [Twitter](https://twitter.com/hyenecil)
-
 ---
 
 ## 📬 Get In Touch
