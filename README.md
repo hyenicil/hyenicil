@@ -24,7 +24,7 @@ Here are some tools and technologies I work with:
 ## 🚀 Projects
 Here are a few highlights from my repositories:
 
-- [**Awesome Project 1**](https://github.com/hyenecil/awesome-project-1): A brief description of what this project does and the technologies it uses.
+- [**Awesome Project 1**](https://github.com/hyenicil/awesome-project-1): A brief description of what this project does and the technologies it uses.
 - [**Awesome Project 2**](https://github.com/hyenecil/awesome-project-2): A brief description of what this project does and the technologies it uses.
 
 ---
@@ -37,7 +37,7 @@ Here are a few highlights from my repositories:
 ---
 
 ## 🔗 Connect With Me
-- [LinkedIn]([https://linkedin.com/in/hyenecil](https://www.linkedin.com/in/h%C3%BCseyin-mercimek-999939178/))
+- [LinkedIn]([https://linkedin.com/in/hyenecil](https://www.linkedin.com/in/h%C3%BCseyin-mercimek-999939178/])
 ---
 
 ## 📬 Get In Touch
