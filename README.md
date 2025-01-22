@@ -6,8 +6,8 @@ Welcome to my GitHub profile! 🚀 I am a passionate Java developer who loves ex
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hyenecil&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hyenecil&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hyenicil&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hyenicil&layout=compact&theme=radical)
 
 ---
 
